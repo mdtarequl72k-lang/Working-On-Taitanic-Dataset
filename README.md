@@ -49,9 +49,7 @@ Welcome! This repository contains my exploratory data analysis (EDA) and data-pr
 
 ## 🙋 Author
 Tarequl Islam  
-Undergraduate Student, Statistics, SUST
-Passionate about Data Analytics, ML and Practical Projects
-
+Undergraduate Student, Statistics, SUST.
 
 **Feel free to fork, use, or improve—PRs welcome!**
 
