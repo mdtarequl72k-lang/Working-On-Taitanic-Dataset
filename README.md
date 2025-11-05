@@ -10,6 +10,7 @@ Welcome! This repository contains my exploratory data analysis (EDA) and data-pr
 
 ## 📋 Workflow Summary
 - **Data Loading:** Used pandas/numpy to load and inspect the data.
+
 - **Data Cleaning:**
   - Missing values handled (mean/mode for 'Age' & 'Embarked', dropped 'Cabin')
   - Removed unnecessary columns like PassengerId, Ticket, and Cabin
@@ -51,5 +52,13 @@ Welcome! This repository contains my exploratory data analysis (EDA) and data-pr
 Tarequl Islam  
 Undergraduate Student, Statistics, SUST.
 
-**Feel free to fork, use, or improve—PRs welcome!**
+## 📧 Contact
+- Email: mdtarequl72k@gmail.com
+- LinkedIn: Tarequl Islam
 
+## ⭐️ Contribute / Feedback
+
+For suggestions, pull requests or collaboration—reach out!  
+Feel free to fork, remix or build on this project for your classroom, startup or portfolio.
+
+**“Data tells the story behind the silver screen. Let’s analyze what makes movies magical!”**
