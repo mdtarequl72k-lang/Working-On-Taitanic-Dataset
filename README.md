@@ -2,7 +2,6 @@
 Welcome! This repository contains my exploratory data analysis (EDA) and data-preparation work on the popular Kaggle Titanic dataset.
 
 ## 🚀 Project Goals
-
 - **Clean** and preprocess the Titanic dataset for analysis and future modeling.
 - **Explore** the dataset using statistical summary and powerful visualizations.
 - **Engineer** new, meaningful features to boost prediction power.
@@ -10,7 +9,6 @@ Welcome! This repository contains my exploratory data analysis (EDA) and data-pr
 
 
 ## 📋 Workflow Summary
-
 - **Data Loading:** Used pandas/numpy to load and inspect the data.
 - **Data Cleaning:**
   - Missing values handled (mean/mode for 'Age' & 'Embarked', dropped 'Cabin')
@@ -31,14 +29,12 @@ Welcome! This repository contains my exploratory data analysis (EDA) and data-pr
 
 
 ## 📊 Key Insights
-
 - Around 62% of passengers did not survive; females and 1st class passengers had higher survival rates.
 - Most passengers traveled alone.
 - Large proportion boarded from port 'S'.
 
 
 ## 🔗 How to Run
-
 1. Download the notebook or clone this repository.
 2. Open `titanic_analysis.ipynb` in Jupyter Notebook, VS Code, or Kaggle.
 3. Make sure `train.csv` from the Titanic dataset is in the correct path.
@@ -46,17 +42,15 @@ Welcome! This repository contains my exploratory data analysis (EDA) and data-pr
 
 
 ## 🤖 Next Steps
-
 - Build and train ML models (e.g., logistic regression, decision trees)
 - Evaluate model performance with metrics like accuracy and confusion matrix
 - Interpret results and iterate on feature engineering
   
 
 ## 🙋 Author
-
 Tarequl Islam  
-Undergraduate Student, Statistics  
-Passionate about Data Analytics, ML, and Practical Projects
+Undergraduate Student, Statistics, SUST
+Passionate about Data Analytics, ML and Practical Projects
 
 
 **Feel free to fork, use, or improve—PRs welcome!**
