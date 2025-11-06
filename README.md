@@ -54,10 +54,9 @@ Undergraduate Student, Statistics, SUST.
 
 ## 📧 Contact
 - Email: mdtarequl72k@gmail.com
-- LinkedIn: Tarequl Islam
+- LinkedIn: [Tarequl Islalm(https://www.linkedin.com/in/tarequl-islam-21618636a/)]
 
 ## ⭐️ Contribute / Feedback
-
 For suggestions, pull requests or collaboration—reach out!  
 Feel free to fork, remix or build on this project for your classroom, startup or portfolio.
 
